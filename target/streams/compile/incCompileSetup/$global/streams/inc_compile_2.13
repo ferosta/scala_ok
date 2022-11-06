@@ -1,0 +1,285 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\amfedorov\fedorov\tmp\scala\z2_2\target\scala-2.13\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.13.10
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> D:\amfedorov\fedorov\tmp\scala\z2_2\target\scala-2.13\classes\Main$$anonfun$1.class
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> D:\amfedorov\fedorov\tmp\scala\z2_2\target\scala-2.13\classes\Main$.class
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> D:\amfedorov\fedorov\tmp\scala\z2_2\target\scala-2.13\classes\Main.class
+binary dependencies:
+2 items
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> C:\Users\amfedorov\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.10.jar
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> C:\Users\amfedorov\.jdks\temurin-1.8.0_345\jre\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+3 items
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Main
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Main$
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Main$$anonfun$1
+used names:
+204 items
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> &&
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> *
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> +
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> -
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> /
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> <
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> <:<
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> <=
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> <init>
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> <repeated>
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> =:=
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> ==
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> >
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> >=
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> A
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> A1
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> AbstractPartialFunction
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Anonymous_Workers
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Any
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> AnyRef
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Array
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Average_Income
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Average_Incomes
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Avg
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Avg_Junior
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Avg_Middle
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Avg_Salaries_by_Stages
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Avg_Senior
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> B
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> B1
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Base
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Boolean
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Bs
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> ByBy_String
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Char
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> CharSequence
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Crisis_Salaries_List_
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Das_Xvost
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> DeprecatedDoubleOrdering
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Do_Monthly_Income
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Double
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> DoubleIsFractional
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Employee_Number
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Employers_Stages_Numbers
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Food_Compensation
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Full_Names
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Function1
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Inclusive
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Index_To_Insert
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> IndexedSeq
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Inflation_Rate
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Inflation_Ratio_for_Employers
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Inflation_Ratio_for_Stages
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Int
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Iterable
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> IterableOnce
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Iterator
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> K
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> K2
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> List
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Long
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Main
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Map
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Max_Monthly_Income
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Max_Salary_Worker
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Middle_Indexes_v1
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Middle_Indexes_v2
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Middle_Max_Salary
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Middle_Min_Salary
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Min_Monthly_Income
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Min_Salary_Worker
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Monthly_Income
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Monthly_Incomes
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> N
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Names
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> New_Employee_Income
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> New_Employer_Salary
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> New_Employers_Salaries
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> New_Monthly_Incomes
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> New_Salaries_List
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> New_Salaries_List_Sorted
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Nothing
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Numeric
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Object
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Ordering
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> P
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> PartialFunction
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Pow
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Predef
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Print_Task_Text
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Prize
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Pw
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Range
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Read_Data_From_Keyboard
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Recursive_Power
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Recursive_Power_Xvost
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> RichInt
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Salaries
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Salaries_List
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Salaries_List_Sorted
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Salaries_by_Stages
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Salary
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Scala
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Second_Names
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Seq
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Stages_Numbers_List
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Stages_Salaries_Bounds
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Stages_Salaries_Tab
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> StdIn
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Str
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> StrEn
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> StrRu
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> String
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> StringContext
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> StringOps
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> T
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> T0
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> T1
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> T2
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3a
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3b
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3c
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3d
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3e
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3f
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3g
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3h
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3i_star
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3k_star
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3l_star
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3m_star
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3n_star
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3oi_star
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Task_3oii_2stars
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Tuple2
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> U
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Unit
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> V
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> V2
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> Workers
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> _1
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> _2
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> annotation
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> any2stringadd
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> apply
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> asInstanceOf
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> augmentString
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> by
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> collect
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> concat
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> elm
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> filter
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> foreach
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> groupBy
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> i
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> index
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> indexWhere
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> intWrapper
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> io
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> keys
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> last
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> length
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> map
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> math
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> max
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> maxBy
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> min
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> minBy
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> mkString
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> name
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> package
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> patch
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> print
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> println
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> readLine
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> refl
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> replace
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> replaceAll
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> replaceFirst
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> reverse
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> s
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> salary
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> scala
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> size
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> sliding
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> sorted
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> sum
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> tailrec
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> to
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> toDouble
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> toInt
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> toList
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> toLong
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> toLowerCase
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> toMap
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> toString
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> unary_!
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> unchecked
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> x
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> x$1
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> x$2
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> z
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> zip
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> zipWithIndex
+product stamps:
+3 items
+D:\amfedorov\fedorov\tmp\scala\z2_2\target\scala-2.13\classes\Main$$anonfun$1.class -> lastModified(1667758819790)
+D:\amfedorov\fedorov\tmp\scala\z2_2\target\scala-2.13\classes\Main$.class -> lastModified(1667758819781)
+D:\amfedorov\fedorov\tmp\scala\z2_2\target\scala-2.13\classes\Main.class -> lastModified(1667758819790)
+source stamps:
+1 items
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> hash(270cbb0e7840b989cefe25f8bc7c233ebf618ff5)
+binary stamps:
+2 items
+C:\Users\amfedorov\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.10.jar -> lastModified(1665252992000)
+C:\Users\amfedorov\.jdks\temurin-1.8.0_345\jre\lib\rt.jar -> lastModified(1667236689469)
+class names:
+2 items
+C:\Users\amfedorov\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.10.jar -> scala.runtime.AbstractPartialFunction
+C:\Users\amfedorov\.jdks\temurin-1.8.0_345\jre\lib\rt.jar -> java.io.Serializable
+internal apis:
+1 items
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwq47GJAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA1c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw9hP3LnQADFRhc2tfM21fc3RhcnNxAH4ADLNBFRF0ABZUYXNrXzNsX3N0YXIkZGVmYXVsdCQxc3EAfgAMbnEtmXQAEVRhc2tfM2EkZGVmYXVsdCQzc3EAfgAM+U9Sy3QABm5vdGlmeXNxAH4ADIVvbNZ0AAdUYXNrXzNjc3EAfgAMjHdfbnQAEVRhc2tfM2MkZGVmYXVsdCQyc3EAfgAMh5bmX3QAFlRhc2tfM2tfc3RhciRkZWZhdWx0JDFzcQB+AAw4EPfvdAAEd2FpdHNxAH4ADMlGrTJ0AAxUYXNrXzNrX3N0YXJzcQB+AAxxF3SddAAfUmVjdXJzaXZlX1Bvd2VyX1h2b3N0JGRlZmF1bHQkMXNxAH4ADNy5Ltx0AAZlcXVhbHNzcQB+AAyrd+KSdAAZUmVjdXJzaXZlX1Bvd2VyJGRlZmF1bHQkMXNxAH4ADAIa1/90AAdUYXNrXzNnc3EAfgAM+V9I2XQADFRhc2tfM25fc3RhcnNxAH4ADIt3LQh0AAxhc0luc3RhbmNlT2ZzcQB+AAxtB/0EdAARVGFza18zYSRkZWZhdWx0JDJzcQB+AAxIJtIodAAMc3luY2hyb25pemVkc3EAfgAMHJSZxnQAFlRhc2tfM25fc3RhciRkZWZhdWx0JDFzcQB+AAyXpEBydAARVGFza18zZSRkZWZhdWx0JDFzcQB+AAx1ODGadAAHVGFza18zZnNxAH4ADCByHox0AARtYWluc3EAfgAMyiANsnQADVRhc2tfM29pX3N0YXJzcQB+AAwpsWoZdAAJbm90aWZ5QWxsc3EAfgAMkHHa8XQAB1Rhc2tfM2JzcQB+AAz2UEwFdAAaVGFza18zb2lpXzJzdGFycyRkZWZhdWx0JDFzcQB+AAyoh3JZdAAMaXNJbnN0YW5jZU9mc3EAfgAMlOzgdHQAB1Rhc2tfM2VzcQB+AAzFgTjqdAAPUmVjdXJzaXZlX1Bvd2Vyc3EAfgAMFeSLonQAEVRhc2tfM2YkZGVmYXVsdCQxc3EAfgAM5Jr1UnQAFlRhc2tfM21fc3RhciRkZWZhdWx0JDFzcQB+AAzCl8EqdAARVGFza18zYSRkZWZhdWx0JDFzcQB+AAxFQDFhdAACPT1zcQB+AAwvOqUsdAAMVGFza18zaV9zdGFyc3EAfgAMEP40ynQABWNsb25lc3EAfgAMsfA30nQAH1JlY3Vyc2l2ZV9Qb3dlcl9Ydm9zdCRkZWZhdWx0JDNzcQB+AAzIFfkbdAAVUmVjdXJzaXZlX1Bvd2VyX1h2b3N0c3EAfgAMmqRU6XQABE1haW5zcQB+AAwp2qJXdAAIdG9TdHJpbmdzcQB+AAwo3axNdAACIT1zcQB+AAzwFjjZdAARRG9fTW9udGhseV9JbmNvbWVzcQB+AAwLgTRudAAIZ2V0Q2xhc3NzcQB+AAxGq7KTdAAHVGFza18zZHNxAH4ADNNLRrB0AAJuZXNxAH4ADFoiIXt0AAdUYXNrXzNoc3EAfgAM/9GmvHQAAmVxc3EAfgAMn9mLMnQAB1Rhc2tfM2FzcQB+AAz5Uyr/dAAXVGFza18zb2lfc3RhciRkZWZhdWx0JDFzcQB+AAxlxa89dAACIyNzcQB+AAwM636fdAAIZmluYWxpemVzcQB+AAy8+a2MdAAMVGFza18zbF9zdGFyc3EAfgAMtDunXnQAEFRhc2tfM29paV8yc3RhcnNzcQB+AAzLaiD2dAAIaGFzaENvZGVzcQB+AAw+2oZIdAARVGFza18zYyRkZWZhdWx0JDFzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AFd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAYc2NhbGEuYW5ub3RhdGlvbi50YWlscmVjdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AgUwACWluaGVyaXRlZHEAfgCBTAAHcGFyZW50c3EAfgCBeHEAfgCfc3EAfgCadXEAfgB8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCCcQB+AIt1cQB+AIwAAAAAc3EAfgCOAHEAfgA3dXEAfgCQAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJ50AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCec3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC6dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ap3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4Ak3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ArlsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AnnNxAH4ArXQABUFycmF5cQB+ALN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ArXQABlN0cmluZ3NxAH4AsXNxAH4AtHVxAH4AtwAAAANzcQB+ALl0AARqYXZhc3EAfgC5dAAEbGFuZ3EAfgC+c3EAfgCadXEAfgB8AAAAAHNxAH4AmnVxAH4A0gAAAAJzcQB+AK10AAZPYmplY3RxAH4A1nNxAH4ArXQAA0FueXEAfgCzdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAYROK/j6dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPUQ6XGFtZmVkb3JvdlxmZWRvcm92XHRtcFxzY2FsYVx6Ml8yXHRhcmdldFxzY2FsYS0yLjEzXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQnDLsOeEC5ic7+Jfi8fCM+v2GP9Q==
+external apis:
+0 items
+source infos:
+1 items
+D:\amfedorov\fedorov\tmp\scala\z2_2\src\main\scala\Main.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhE4r+Pp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPUQ6XGFtZmVkb3JvdlxmZWRvcm92XHRtcFxzY2FsYVx6Ml8yXHRhcmdldFxzY2FsYS0yLjEzXGNsYXNzZXN0AAEv
