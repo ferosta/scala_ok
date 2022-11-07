@@ -4,7 +4,7 @@
 		module="z2_2$sources_2.10"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20221106210744"
+		publication="20221106230546"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

@@ -4,7 +4,7 @@
 		module="z2_2_2.13"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20221106210548"
+		publication="20221106230543"
 	>
 		<description>
 		z2_2
@@ -34,5 +34,9 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.13.10" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.13.10" conf="scala-tool->default,optional(default);compile->default(compile)"/>
+		<dependency org="com.lihaoyi" name="requests_2.13" rev="0.7.1" conf="compile->default(compile)"/>
+		<dependency org="com.lihaoyi" name="upickle_2.13" rev="0.9.5" conf="compile->default(compile)"/>
+		<dependency org="com.lihaoyi" name="ujson_2.13" rev="0.7.1" conf="compile->default(compile)"/>
+		<dependency org="com.lihaoyi" name="os-lib_2.13" rev="0.8.1" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

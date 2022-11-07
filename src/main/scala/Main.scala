@@ -1,23 +1,27 @@
+import requests.Response
+import scala.util.Random
+
 import scala.annotation.tailrec
 import scala.io.StdIn
 
 object Main {
   def main(args: Array[String]): Unit = {
-    Task_3a()
-    Task_3b()
-    Task_3c(Read_Data_From_Keyboard = false)
-    Task_3d()
-    Task_3e()
-    Task_3f()
-    Task_3g()
-    Task_3h()
-    Task_3i_star()
-    Task_3k_star()
-    Task_3l_star()
-    Task_3m_star()
-    Task_3n_star()
-    Task_3oi_star()
-    Task_3oii_2stars()
+//    Task_3a()
+//    Task_3b()
+//    Task_3c(Read_Data_From_Keyboard = false)
+//    Task_3d()
+//    Task_3e()
+//    Task_3f()
+//    Task_3g()
+//    Task_3h()
+//    Task_3i_star()
+//    Task_3k_star()
+//    Task_3l_star()
+//    Task_3m_star()
+//    Task_3n_star()
+//    Task_3oi_star()
+//    Task_3oii_2stars()
+    Task_3j_4stars()
 
   }
 
@@ -385,5 +389,85 @@ object Main {
     val Bs = 2 // основание
     val Pw = 7 // степеь
     println(s"$Bs в степени $Pw = Хвостовая рекурсия = " + Recursive_Power_Xvost(Das_Xvost = Bs, Pow = Pw, Base=Bs))
+  }
+
+  /**
+   * Решение задания 3.o.ii** из раздела 2.2.
+   *
+   * @param Print_Task_Text - надо ли печатать задание
+   */
+  def Task_3j_4stars(Print_Task_Text: Boolean = true): Unit = {
+    if (Print_Task_Text) println(
+      """ *************************************************
+        j. ****(для тех, кто любит хардкор) Попробуйте самостоятельно вычислить средние значения уровня зарплат
+        для data engineer’ов каждого уровня с помощью, например,  https://dev.hh.ru/.""")
+
+    val Stage_Names = Seq("junior", "middle", "senior")
+    val HH_Site = "https://api.hh.ru/vacancies"//?text=\"data%20engineer,%20junior\""
+    //val Parameters: Map[String, String] =  Map("text" -> "data engineer", "currency"->"RUR")
+
+    val DE = "data engineer"
+    val Par = Stage_Names.map(stage => Map("text" -> s"$DE $stage"
+                                          ,"currency" -> "RUR"
+                                          )
+                          )
+//    println(Par)
+
+
+     val do_Real_Request = true
+    //запрашиваем сайт НН
+    for (p <- Par) {
+      println("Параметр запроса:" + p)
+      val Session = requests.Session(
+        headers = Map("User-Agent" -> s"Custom user agent ${Random.between(0, 10)}"
+//        ,"accept" -> "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3"
+//        ,"accept-encoding" -> "gzip, deflate, br"
+//        ,"accept-language" -> "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7"
+//        ,"cache-control" -> "no-cache"
+//        ,"dnt" -> "1"
+//        ,"pragma" -> "no-cache"
+//        ,"sec-fetch-mode" -> "navigate"
+//        ,"sec-fetch-site" -> "none"
+//        ,"sec-fetch-user" -> "?1"
+//        ,"upgrade-insecure-requests" -> "1"
+        )
+      )
+      println("Параметры сессии: " + Session)
+
+      val r:Response = if (do_Real_Request) Session.get(HH_Site, params = p) else null
+      if (do_Real_Request) {
+        println("Статус ответа: " + r.statusMessage + ", Размер ответа " + r.contentLength)
+//        println(r.text())
+      } else println("!!!Никакого реального запроса не отправляется\n\n")
+
+      val File_Name = os.pwd / s"data_${p("text").replace(s"$DE ","")}.json"
+      println("Сохраняем в файл " + File_Name)
+
+      if (do_Real_Request)  os.write.over(File_Name, ujson.read(r.text()))
+
+
+      Thread.sleep(1000+Random.between(100, 500))
+
+    }
+
+
+
+
+//    //тренируемся на сохраненном файле
+//    val Response_String = ujson.read(os.read(os.pwd/"data.json"))
+//    val Items = Response_String("items")
+//
+//    println(Items)
+//
+//
+////    Response_String
+//    for (x <- 0 to 10 ) {
+//      println( Items(x)("name"))
+//      println( Items(x)("salary") )
+//      println( Items(x)("snippet"))
+//      println("----------")
+//    }
+
+
   }
 }

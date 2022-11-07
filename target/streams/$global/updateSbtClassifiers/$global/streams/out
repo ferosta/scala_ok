@@ -10,7 +10,6 @@
 [debug] == resolving dependencies z2_2#z2_2$sbt_2.10;0.1.0-SNAPSHOT->org.scala-sbt#sbt;0.13.18 [default->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.7 {default=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.7 {default=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.7 {default=[default(compile)]} => dependency: org.scala-lang#scala-reflect;2.10.7 {default=[default(compile)]}
-[debug] no default cache defined: set to C:\Users\amfedorov\.ivy2\cache
 [info] Resolving org.scala-sbt#sbt;0.13.18 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#sbt;0.13.18 {default=[default(compile)]}
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#sbt;0.13.18
@@ -2854,9 +2853,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.18!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.jboss.interceptor#jboss-interceptor-api;1.1!jboss-interceptor-api.jar
-[debug] :: resolution report :: resolve 2008ms :: artifacts dl 47ms
+[debug] :: resolution report :: resolve 1350ms :: artifacts dl 36ms
 [debug] 	report for z2_2#z2_2$sbt_2.10;0.1.0-SNAPSHOT default produced in D:\amfedorov\fedorov\tmp\scala\z2_2\target\scala-2.13\resolution-cache\reports\z2_2-z2_2$sbt_2.10-default.xml
-[debug] 	resolve done (2008ms resolve - 47ms download)
+[debug] 	resolve done (1350ms resolve - 36ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: z2_2#z2_2$sources_2.10;0.1.0-SNAPSHOT
 [debug] 	confs: [default]
@@ -4170,6 +4169,6 @@
 [debug] 	[NOT REQUIRED] org.apache.ant#ant;1.9.9!ant.jar(src)
 [debug] 	[NOT REQUIRED] javax.inject#javax.inject;1!javax.inject.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.18!apply-macro.jar(src)
-[debug] :: resolution report :: resolve 875ms :: artifacts dl 48ms
+[debug] :: resolution report :: resolve 845ms :: artifacts dl 33ms
 [debug] 	report for z2_2#z2_2$sources_2.10;0.1.0-SNAPSHOT default produced in D:\amfedorov\fedorov\tmp\scala\z2_2\target\scala-2.13\resolution-cache\reports\z2_2-z2_2$sources_2.10-default.xml
-[debug] 	resolve done (875ms resolve - 48ms download)
+[debug] 	resolve done (845ms resolve - 33ms download)
